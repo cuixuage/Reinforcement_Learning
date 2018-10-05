@@ -7,7 +7,7 @@
 09_03 完成RLAI前十三章的阅读   
 
 
-**Deep Reinforcement Learning Algorithm**
+**Deep Reinforcement Learning Algorithm**    
 *一.deepmind DQN*
 测试环境:gym cartpole-v0  实现了以下几种DQN变型     
 1.DQN     
@@ -17,7 +17,7 @@
 5.DeepRecurrentQN  
 6...... e.g. AverageDQN  NoisyDQN RainBow等等尚未实现  
 
-*二.openai policyGradient*
+*二.openai policyGradient*   
 若干变型  尚未实现  
 
 
