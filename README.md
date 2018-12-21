@@ -1,4 +1,7 @@
-**RLAI书籍阅读完成:**  
+#RLAI书籍阅读计划:
+```
+./book  目录下
+``` 
 08_20  QL算法+RLAI chapter2  
 08_21  RLAI chapter2   
 .   
@@ -8,6 +11,10 @@
 
 
 **Deep Reinforcement Learning Algorithm**    
+代码: 
+```
+./Pytorch_basic  目录下
+```
 *一.deepmind DQN*
 测试环境:gym cartpole-v0  实现了以下几种DQN变型     
 1.DQN     
